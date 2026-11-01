@@ -1,16 +1,21 @@
-## Hi there 👋
+# Chaima Baatout
 
-<!--
-**ChaimaBaatout/ChaimaBaatout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Software Engineer with 3+ years of experience building industrial web applications and digital factory solutions for global manufacturing clients.
 
-Here are some ideas to get you started:
+## What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** C#, JavaScript, TypeScript, SQL
+- **Front-end:** Angular, React
+- **Back-end:** ASP.NET, SignalR
+- **Databases:** SQL Server, MongoDB, Cassandra
+- **Tools:** Git, GitHub, Linux, Kibana, Jira, Scrum
+
+## What I focus on
+
+- Scalable front-end development and user experience
+- Real-time web applications with SignalR
+- Performance optimization
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/chaima-baatout-387a3b196)
